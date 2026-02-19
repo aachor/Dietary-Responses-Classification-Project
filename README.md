@@ -8,3 +8,4 @@ This thesis seeks to exploit the first publicly available nutritional counseling
 * Employing Traditional Machine Learning Models to Identify Inappropriate Dietary Advice – Examining the effectiveness of selected traditional Machine learning models to classify dietary advice as either safe or unsafe without considering the corresponding struggles.
 * Employing LLMs to Identify Inappropriate Dietary Advice – Investigating the ability of closed source LLMs to distinguish between appropriate and inappropriate dietary advice in relation to the corresponding dietary struggle of the subject.
 * Fine-Tuning an LLM to Identify Inappropriate Dietary Advice – Exploring how opensource large language models can differentiate between appropriate and inappropriate dietary advice in relation to the corresponding dietary struggles of individuals, by fine-tuning them on selected dataset.
+## Results
